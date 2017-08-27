@@ -1,4 +1,23 @@
-title: Mahpahh
+title: Con chó
 description: Lessons learnt from a whole life wasted
 
-theme: jekyll-theme-midnight
+markdown: kramdown
+theme: jekyll-theme-hydeout
+
+gems:
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+paginate: 5
+
+jekyll-archives:
+  enabled:
+    - categories
+  layout: category_archives
+  permalinks:
+    category: /categories/:name/
+
+disqus:
+  shortname: mahpahh
