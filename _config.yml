@@ -2,7 +2,7 @@ title: Con chó
 description: Lessons learnt from a whole life wasted
 
 markdown: kramdown
-theme: jekyll-theme-hydeout
+theme: jekyll-theme-architect
 
 gems:
   - jekyll-archives
