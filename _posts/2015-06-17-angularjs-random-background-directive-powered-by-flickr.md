@@ -37,7 +37,7 @@ https://api.flickr.com/services/rest/?api_key={key}&method=flickr.photos.search&
 ## Flickr service
 Mình sẽ viết thành 1 service gọi flickr API cho nó pro, thực tế chỉ là đóng gói $http service của angular lại để gọi flickr API. Vì mình muốn có thể cấu hình apiKey nên sẽ sử dụng công thức provider
 
-```language-javascript
+```js
 angular.module('app', [])
   .provider('flickr', flickrProvider)
 
@@ -82,7 +82,7 @@ function flickrProvider() {
 
 Tốt rồi, bây giờ sử dụng service này tìm kiếm hình ảnh như sau
 
-```language-javascript
+```js
 flickr.call({
 	method: 'flickr.photos.search',
     tags: tags,
@@ -96,7 +96,7 @@ Extras params sẽ báo cho thằng Flickr biết tao cần link ảnh lớn `ur
 
 ## `flickr-background` directive
 
-```language-javascript
+```js
 function flickrBackground(flickr) {
   var _directive = {
     restrict: 'A',
