@@ -1,0 +1,2 @@
+- Saga là một pattern để đối phó với failure trong 1 long lived transaction, mục đích là để đảm bảo tính eventual consisteny. Đây giống như một dạng giao dịch đảo ngược, để đưa hệ thống trở về trạng thái ban đầu. Lưu ý rằng trạng thái ban đầu tức là trạng thái của hệ thống nếu giao dịch không xảy ra, bởi hệ thống cũng có thể chụ tác động của một giao dịch khác xảy ra đồng thời.
+- thường bị hiểu lầm là workflow pattern
