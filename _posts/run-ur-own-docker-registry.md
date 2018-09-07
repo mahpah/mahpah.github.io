@@ -1,7 +1,8 @@
 ---
 layout: post
 tags:
-    - docker
+  - docker
+title: Tự deploy một docker registry
 ---
 
 ## Các bước tiến hành
@@ -9,7 +10,7 @@ tags:
 Docker registry cũng được chạy dưới dạng 1 docker container. Image của nó là `registry`. Tag stable hiện đang là 2.
 
 ```sh
-$ docker run -p 5000:5000 registry:2 
+$ docker run -p 5000:5000 registry:2
 
 <log go here>
 ```
@@ -86,10 +87,10 @@ http:
 
 Bad news, it didn't work. See https://github.com/docker/distribution/issues/2545
 
-Để có thể sử dụng letsencrypt, tạo 1 certificate dạng standalone
+Để có thể sử dụng letsencrypt, tạo 1 certificate dạng standalone:
 
 ```sh
-$ certbot --certonly --standalone -d <domain của bạn>
+$ certbot certonly --standalone -d <domain của bạn>
 
 fullchain.pem privkey.pem
 ```
@@ -120,17 +121,23 @@ docker run \
 ```
 
 File `htpassword`
-```
+
+```plaintext
 testuser:<some cryptic hash>
 ```
 
-mount file htpassword vào vị trí `/auth/htpasswd`
+mount file htpassword vào vị trí `/auth/htpasswd` và thiết lập môi trường bắt buộc authorize để access
 
 ```yml
 # docker-compose.yml
 
+environment:
+  REGISTRY_AUTH: htpasswd
+  REGISTRY_AUTH_HTPASSWD_PATH: /auth/htpasswd
+  REGISTRY_AUTH_HTPASSWD_REALM: Registry Realm
+
 volumes:
-    - ./auth:/auth
+  - ./auth:/auth
 ```
 
 Đăng nhập vào registry
@@ -141,7 +148,7 @@ docker login <your-registry>
 
 Tag và push lên:
 
-```
+```sh
 docker tag <your-registry>/<your-image>
 
 docker push <your-registry>/<your-image>
