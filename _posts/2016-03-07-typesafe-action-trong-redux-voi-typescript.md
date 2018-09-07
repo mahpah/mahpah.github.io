@@ -20,8 +20,8 @@ const todos = (state, action) => {
 }
 ```
 
-![Vsavkin's](/content/images/2016/03/vsavkin1.png)
-![Vsavkin's](/content/images/2016/03/vsavkin2.png)
+![Vsavkin's](/assets/images/2016/03/vsavkin1.png)
+![Vsavkin's](/assets/images/2016/03/vsavkin2.png)
 
 Tuy nhiên cách kiểm tra của [@vsavkin](http://github.com/vsavkin), dùng `instanceof`, lại không được khuyến khích, như [@gaearon](http://github.com/gaearon) đã [chỉ ra](https://github.com/reactjs/redux/issues/992#issuecomment-153138700) rằng tính năng record, replay action của redux sẽ serialize action thành JSON và ngược lại, khi đó thông tin về class sẽ bị mất. Như vậy cuối cùng vẫn phải chỉ định property `type` của action một cách tường minh.
 

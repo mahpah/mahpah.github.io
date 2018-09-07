@@ -19,7 +19,7 @@ Các trường hợp trên là đều sử dụng yếu tố nội dung: dấu c
 Để giúp người đọc nhanh chóng nắm bắt cấu trúc văn bản thì tính nhất quán là rất quan trọng. Tất cả các phần có chức năng giống nhau cần được định dạng cùng 1 cách. Ví dụ, tất cả các đề mục cấp 1 đều có cỡ chữ 20, in đậm, tất cả các danh sách đều được lùi đầu dòng 1cm...
 
 > Tip: Format painter giúp bạn copy style từ chỗ này sang chỗ khác.
-![](/content/images/2015/09/format-painter.PNG)
+![](/assets/images/2015/09/format-painter.PNG)
 
 ## Chọn font tốt
 Hãy chọn các font thân thiện, và đảm bảo có đủ các ký tự trong ngôn ngữ bạn sử dụng. Tôi thích 1 số font như Open Sans và Source Sans Pro, Georgia. Trong 1 văn bản, không nên dùng quá 3 font.
@@ -43,17 +43,17 @@ Khi bạn mang tài liệu sang một máy khác, gửi CV cho nhà tuyển dụ
 
 Để thực hiện, chọn menu File > Options > Save, check vào embed fonts in this file như hình. Ngoài ra có thể chọn thêm option chỉ nhúng các ký tự được sử dụng sẽ tiết kiệm hơn 1 chút.
 
-![](/content/images/2015/09/embed-font.PNG)
+![](/assets/images/2015/09/embed-font.PNG)
 
 ### Hiện đường lưới.
 Đường lưới giúp bạn bố cục tốt hơn, thẳng hơn, tương tự như hồi bé viết vở ô ly đều hơn khi viết với vở chỉ có dòng kẻ ngang.
-![](/content/images/2015/09/view-grid.jpg)
+![](/assets/images/2015/09/view-grid.jpg)
 
 ### Line spacing
 Giúp điều chỉnh khoảng cách giữa các dòng, giữa các đoạn văn. Một số người có thói quen giãn dòng bằng cách xuống dòng vài lần. Điều này vi phạm nguyên tắc #1, phân tách nội dung và hình thức đã trình bày ở trên.
 
-![](/content/images/2015/09/line-spacing-1.PNG)
+![](/assets/images/2015/09/line-spacing-1.PNG)
 
-![](/content/images/2015/09/line-spacing-2.PNG)
+![](/assets/images/2015/09/line-spacing-2.PNG)
 
 Tạm thế đã, nghĩ ra gì update tiếp :3

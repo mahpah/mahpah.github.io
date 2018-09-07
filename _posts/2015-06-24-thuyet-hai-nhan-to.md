@@ -16,7 +16,7 @@ Cụ thể hơn nữa nhé, 2 nhân tố mà bác Herzberg nghiên cứu là:
 
 - Nhân tố vệ sinh (hygiene factor): các nhân tố này nếu ở mức thấp sẽ tạo ra sự không hài lòng, vì thế cần phải được duy trì ở mức độ có thể chấp nhận, bởi vậy mới có tên gọi là nhân tố vệ sinh. Các nhân tố vệ sinh có thể kể ra như: điều kiện làm việc, mức lương, chế độ nghỉ đẻ, các lợi ích khác...
 
-![](/content/images/2015/06/Motivation-Hygiene-Software-Advanced-91405.gif)
+![](/assets/images/2015/06/Motivation-Hygiene-Software-Advanced-91405.gif)
 
 Theo nghiên cứu của bác H., triệt tiêu sự không hài lòng do thiếu các nhân tố vệ sinh gây ra không dẫn tới sự hài lòng cho công việc mà cần có thêm các yếu tố tạo động lực để kích thích người lao động. Xem xét 4 tổ hợp có thể giữa các mức độ của 2 nhân tố như sau:
 

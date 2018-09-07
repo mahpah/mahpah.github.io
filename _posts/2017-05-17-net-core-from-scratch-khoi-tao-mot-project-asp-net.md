@@ -151,7 +151,7 @@ Tạo thư mục webroot, mặc định là `${content-root}/wwwroot`
 Thêm vài file lăng nhăng
 Run thử và curl để xem. Done.
 
-![](https://mahpahh.com/content/images/2017/05/Screenshot-from-2017-05-17-21-27-32.png)
+![](https://mahpahh.com/assets/images/2017/05/Screenshot-from-2017-05-17-21-27-32.png)
 
 ### Step 3: First controller
 
@@ -211,7 +211,7 @@ Thử chạy app. Mượt luôn.
 dotnet run
 ```
 
-![](https://mahpahh.com/content/images/2017/05/Screenshot-from-2017-05-17-21-52-16.png)
+![](https://mahpahh.com/assets/images/2017/05/Screenshot-from-2017-05-17-21-52-16.png)
 
 ## Let's recap. Ứng dụng asp.net core khởi động như thế nào?
 

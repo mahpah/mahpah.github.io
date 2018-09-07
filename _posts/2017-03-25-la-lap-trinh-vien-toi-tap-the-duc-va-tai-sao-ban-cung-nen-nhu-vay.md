@@ -6,7 +6,7 @@ layout: post
 
 Xưa nay lập trình viên vốn không được biết đến như những người khỏe mạnh nhất thế giới. Nghĩ đến lập trình viên người ta thường tưởng tượng ra những anh chàng đầu to mắt cận, thân hình hoặc là mỏng như siêu mẫu hoặc béo phì.
 
-![OK. This is a joke.](https://blog.codinghorror.com/content/images/uploads/2007/10/6a0120a85dcdae970b0128777024d1970c-pi.jpg)
+![OK. This is a joke.](https://blog.codinghorror.com/assets/images/uploads/2007/10/6a0120a85dcdae970b0128777024d1970c-pi.jpg)
 
 Gần đây khi theo dõi video clip ghi lại các bài nói tại các hội thảo dành cho developer trên thế giới, tôi nhận thấy những người này đều có thân hình to cao cân đối, rất "fit". Tôi thầm nghĩ, "Chúa ơi những anh chàng / cô nàng này dường như có tất cả thời gian trên đời, vừa là Google developer expert, mà vẫn có thời gian đến phòng gym". Thế nhưng tôi đã nhầm, việc tập thể dục không chiếm quá nhiều thời gian, mà lại mang đến nhiều lợi ích cho công việc của bạn.
 

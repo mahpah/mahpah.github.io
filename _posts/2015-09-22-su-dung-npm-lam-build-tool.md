@@ -143,7 +143,7 @@ scripts: {
 
 ## Tích hợp vào sublime text
 Sublime text cho phép định nghĩa các build system để build với tổ hợp phím <kbd>Ctrl</kbd> + <kbd>B</kbd>. Tool > Build System > New Build System
-![](/content/images/2015/09/sublime-build.PNG)
+![](/assets/images/2015/09/sublime-build.PNG)
 
 ```
 {

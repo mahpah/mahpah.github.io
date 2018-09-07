@@ -9,6 +9,10 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - rouge
+
+kramdown:
+  highlighter: rouge
 
 paginate: 10
 

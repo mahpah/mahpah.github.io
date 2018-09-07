@@ -25,7 +25,7 @@ Vì vậy chỉ có một số ít tần số được sử dụng, và tất nh
 
 Nói đến 2.4GHz không phải là nói đến 1 tần số, mà gồm 1 dải liên tục nhiều tần số, được gọi là băng tần, từ 2.4GHz đến khoảng 2.5GHz. Tuy nhiên không phải là 1 bộ phát wifi sẽ phát trên toàn bộ băng tần ấy, mà chỉ phát trên một khoảng nhỏ hơn, gọi là kênh. Nếu coi băng tần là một con đường thì mỗi kênh này sẽ tương tự như một làn đường. Chỉ là so sánh gần đúng, vì thực tế là các kênh này sẽ chồng lấn lên nhau một ít. Wifi 2.4GHz được chia thành 14 kênh, rộng 20MHz mỗi kênh, mà tổng độ rộng băng tần của nó chỉ có 100MHz, từ đó có thể đoán ra rằng phần chồng lấn cũng không phải là ít. Vì thế nhiễu tương đối cao do các bộ phát trên các kênh khác nhau vẫn tranh chấp nhau. Thực tế nhiều quốc gia quy định chỉ cho phép bộ phát được phát trên vài kênh không chồng lấn. Ở Việt Nam thì không có chuyện đó, mọi người được tự do cấu hình AP phát trên bất kỳ kênh nào tùy thích, dân chủ đến thế là cùng.
 
-![Các kênh 802.11 2.4GHz](/content/images/2017/07/hinh1-6-large.jpg)
+![Các kênh 802.11 2.4GHz](/assets/images/2017/07/hinh1-6-large.jpg)
 
 *Hình trên tả cảnh các con kênh chen chúc nhau trong băng tần 2.4GHz*
 

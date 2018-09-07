@@ -115,11 +115,11 @@ nguồn: OpenID Connect Core 1.0 spec http://openid.net/specs/openid-connect-cor
 
 Một cách khái quát thì quá trình xác thực diễn ra theo sơ đồ trên, tuy nhiên chúng được cụ thể hóa thành 3 dạng flow, có độ phức tạp và bảo mật khác nhau [^n]
 
-![](/content/images/2017/05/Screenshot-from-2017-05-13-22-06-14.png)
+![](/assets/images/2017/05/Screenshot-from-2017-05-13-22-06-14.png)
 
 Việc RP muốn sử dụng flow nào được xác định thông qua respone type RP gửi cho OP ở bước 1. Cụ thể:
 
-![](/content/images/2017/05/Screenshot-from-2017-05-13-22-07-53.png)
+![](/assets/images/2017/05/Screenshot-from-2017-05-13-22-07-53.png)
 
 ## 4. OpenId Connect Authorization Flow
 ### 4.1. Code flow
@@ -154,7 +154,7 @@ Flow này bảo mật nhất, token chỉ do các server RP và OP nắm giữ, 
 
 	Nếu request thành công, OP sẽ trả về cho RP ID token, có thể kèm cả access token. Lúc này RP tùy ý xử lý, có thê render trang welcome user hoặc redirect đến đâu đó. Id token gồm các thông tin
 
-       ![](/content/images/2017/05/Screenshot-from-2017-05-13-22-09-06.png)
+       ![](/assets/images/2017/05/Screenshot-from-2017-05-13-22-09-06.png)
 
 5. RP tiến hành việc xác thực id token nhận được, có thể sử dụng client secret đã có trước đó cùng thuật toán đã xác đinh, giải mã token và so khớp các thông tin. Nếu thành công, từ điểm này trở đi RP đã có id token của người dùng và có thể sử dụng để lấy dữ liệu từ resource server
 

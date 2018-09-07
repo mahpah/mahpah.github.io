@@ -78,7 +78,7 @@ function getUser (request, response) {
 Bằng cách `db.get` trả lại một promise, luồng điều khiển đã được trả lại cho controller thay vì nằm trong phương thức của model như trước đây. Mặc khác, nếu anh chàng viết thư viện db có chỉnh sửa gì đó cũng không liên quan đến tôi, miễn là anh ấy vẫn đưa cho tôi promise, thế là được. Khỏe re, đúng không.
 
 *Ngoài lề*: Tôi viết bài này chỉ vì comment này.
-![](/content/images/2015/07/promise.jpg)
+![](/assets/images/2015/07/promise.jpg)
 Tôi nghĩ anh ta đã hiểu lầm ở đâu đó nên tôi muốn viết một chút để giải thích lại. Có thể các bạn nghĩ tôi thật nhỏ nhen và máu ăn thua, nhưng tôi chỉ nghĩ là nếu tôi có thể giải thích tốt hơn, tại sao tôi không làm điều đó, thay vì việc chê bai? Tôi sẽ kể một câu chuyện khác về quan điểm này vào lúc khác (lại kể chuyện, dạo này hơi bị thích kể chuyện :smile:). Tuy nhiên vì [90% mọi thứ trên đời là vớ vẩn](http://mahpahh.com/mot-vai-loai-dao-cao-pho-bien/) nên thôi, đọc tiếp đi các bạn :))
 
 ## 3. Xử lý luồng điều khiển song song
@@ -117,7 +117,7 @@ errorProne()
 
 Ví dụ trong phần 1 cũng là một luồng điều khiển với phần xử lý lỗi lằng nhằng, nếu phải viết với callback chắc tôi phải nhờ ai viết hộ cho chắc ăn.
 
-![](/content/images/2015/07/promise-chain-1.svg)
+![](/assets/images/2015/07/promise-chain-1.svg)
 
 Cái hình này tôi chôm ở [đây](http://www.html5rocks.com/en/tutorials/es6/promises/) đấy, hi hi.
 

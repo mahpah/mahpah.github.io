@@ -30,7 +30,7 @@ Giống như nỗi đau do các đồng chí bị bỏng tay có nghĩa là đ�
 
 Chúng ta hãy xem xét một vài ví dụ về pyramid of doom tôi lấy từ Google images. Dưới đây là một ví dụ về "callback hell" điển hình mượn từ một bài đăng trên medium.com [^n].
 
-![callback hell](/content/images/2015/08/callback-hell1.png)
+![callback hell](/assets/images/2015/08/callback-hell1.png)
 
 Nếu các đồng chí bỏ qua nhiều vấn đề rõ ràng khác của đoạn mã này, các đồng chí sẽ thấy rằng callbacks không phải là vấn đề ở đây, mà là do thiếu một sự trừu tượng hóa đúng đắn. Xem xét cẩn thận: liệu có thật ghế cần phải được lưu sau khi bàn đã được lưu? Hơn nữa, có cấu trúc lập trình cho phép các đồng chí không cần liệt kê tất cả các Items một cách tường minh, chúng được gọi là cho vòng lặp. Nếu đồng chí sử dụng mongoose, đồng chí sẽ chỉ cần sử dụng hàm `create()`. Thậm chí không cần mongoose, `async.parallel ()`, hoặc `promise.all ()`, các đồng chí vẫn có thể viết lại hàm này một cách sáng sủa hơn.
 
@@ -71,8 +71,8 @@ function create(items, callback, index) {
 
 Một ví dụ khác tôi đưa ra, phức tạp hơn, xuất phát từ bài trình bày này [^n] về tranh cãi địa ngục callback với async. Bấm vào hình ảnh để phóng to thêm một chút, nếu các đồng chí đủ can đảm.
 
-<a href="http://mahpahh.com/content/images/2015/08/EGGwaXP.png" title="callback hell" target="_blank">
-![http://mahpahh.com/content/images/2015/08/EGGwaXP.png](/content/images/2015/08/EGGwaXP.png)
+<a href="http://mahpahh.com/assets/images/2015/08/EGGwaXP.png" title="callback hell" target="_blank">
+![http://mahpahh.com/assets/images/2015/08/EGGwaXP.png](/assets/images/2015/08/EGGwaXP.png)
 </a>
 Trường hợp này là một ví dụ cổ điển cho thấy một hàm phải đảm nhận quá nhiều trách nhiệm, hay còn được gọi là mô hình cá nhân kiệt xuất chủ quan duy ý chí hết sức nên tránh [^n]. Như các đồng chí đã thấy, hàm này kiêm nhiệm rất nhiều chức năng.
 
@@ -100,7 +100,7 @@ Chào thân ái và quyết thắng.
 
 **UPDATE**
 [Using async.queue(), LOL](http://nodejsreactions.tumblr.com/post/104084537714/using-asyncqueue)
-![image](/content/images/2015/08/mWPefaQ.gif)
+![image](/assets/images/2015/08/mWPefaQ.gif)
 
 ---
 **Phụ lục**

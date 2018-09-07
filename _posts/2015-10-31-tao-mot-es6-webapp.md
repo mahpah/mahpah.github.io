@@ -13,15 +13,18 @@ Chuẩn ES6 hay ES2015 đã hoàn tất và các [trình duyệt đều đã b�
 Ở đây tôi sử dụng transpiler [babel](https://babeljs.io/). Có thể nói đây là transpiler đầy đủ nhất hiện nay. Công cụ để đóng gói là [webpack](https://webpack.github.io/), được chọn bởi tính đơn giản trong việc config. Ngoài ra [browserify](https://gist.github.com/substack/68f8d502be42d5cd4942) là một lựa chọn tốt không kém nếu bạn không thích việc nhét tất tần tật (js, css, template html) vào chung 1 file js.
 
 ## Cài đặt các thứ
+
 Hãy bắt đầu bằng việc tạo một thư mục và khởi tạo file `package.json`
 
-```
+```sh
 mkdir my-awesome-app
 cd my-awesome-app
 npm init -y
 ```
+
 Các gói bạn cần vào lúc này là
-```
+
+```json
 // package.json
 "devDependencies": {
     "babel-loader": "*",
@@ -43,13 +46,16 @@ Các gói bạn cần vào lúc này là
 `webpack-dev-server` là một gói dùng để tạo một server phục vụ file tĩnh có tính năng tự động tải lại trang khi bundle thay đổi, trường hợp thay đổi css thì không cần tải lại trang. Tuyệt vời.
 
 ## Cấu hình webpack
+
 Hãy sử dụng một file config, ví dụ tôi đặt tên là "webpack.conf.js", sau đó sử dụng webpack với file config này để build với lệnh (chỉ chạy nếu bạn cài đặt webpack global)
 
-```
+```sh
 webpack --config webpack.conf.js
 ```
+
 Thêm một script vào `package.json` để đỡ phải nhớ lệnh dài dòng;
-```
+
+```json
 // package.json
 
 "scripts": {
@@ -80,9 +86,9 @@ module.exports = {
   entry: {
     app: [
       './src/index.js',
-      
+
       // thêm đoạn script này để webpack-dev-server có thể hoạt động. Khi triển khai có thể bỏ nó đi.
-      'webpack-dev-server/client?http://localhost:8080',      
+      'webpack-dev-server/client?http://localhost:8080',
     ],
   },
 
@@ -141,7 +147,9 @@ module.exports = {
 
 ### Viết vài ba script
 Cấu trúc thư mục của chúng ta sẽ thế này
-```
+
+```sh
+$ tree
 my-awesome-app
 └───dist
 └───src
@@ -211,7 +219,7 @@ module.exports = function(config) {
     basePath: '',
 
     frameworks: ['mocha', 'chai'],
-    
+
     // sử dụng một file giống như là file entry của webpack để import các file spec.
     files: [
       'bundle.spec.js',
@@ -309,7 +317,7 @@ context.keys().forEach(context);
 
 Thêm script chạy karma vào `package.json` nữa nhỉ
 
-```
+```json
 // package.json
 "scripts": {
     "test": "karma start karma.conf.js"
@@ -318,7 +326,7 @@ Thêm script chạy karma vào `package.json` nữa nhỉ
 
 Viết vài dummy test case
 
-```
+```js
 // dummy.spec.js
 describe('Dummy', () => {
   let a;
@@ -335,10 +343,11 @@ describe('Dummy', () => {
 
 });
 ```
+
 `npm run test` thôi, chờ gì nữa.
 
 Kết quả bạn nên mong đợi:
-![](/content/images/2015/10/test.png)
+![](/assets/images/2015/10/test.png)
 
 Vậy là chúng ta đã setup test framework xong. Vấn đề thực sự quan trọng lúc này là **test cái gì bây giờ?**. Mong có cao thủ nào chỉ giáo cho chút ít. Tại hạ vô cùng cảm phục.
 
