@@ -35,7 +35,7 @@ Tất cả những gì bạn nhận được là:
 - đặt thêm class mô tả nội dung vào cột
 - định độ rộng theo nội dung, khả năng mềm dẻo vô hạn, vì độ rộng tính bằng %, ví dụ:
 
-```language-css
+```css
 .col.intro {
 	width: 33.3%;
 }
@@ -43,7 +43,7 @@ Tất cả những gì bạn nhận được là:
 - sử dụng media query để style theo các kích thước màn hình, tức bạn có khả năng điều chỉnh tất cả mọi thứ, không cần nhớ hàng trăm thứ class như ```.hidden-xs```, ```.col-push-md-12```, vân vân... Nhờ đó, nhìn vào css của mình tôi thực sự có thể hiểu điều gì sẽ xảy ra.
 
 	**Tip:** Hãy style cho màn hình nhỏ trước (mobile-first), ví dụ:
-```language-css
+```css
 @media only screen {
 	.content {
     	width: 100%; //không cần thiết vì 100% là chiều rộng col mặc định

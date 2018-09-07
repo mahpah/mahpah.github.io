@@ -26,7 +26,7 @@ Ví dụ:
 npm i grunt-cli //cài local nhé
 ```
 
-```language-javascript
+```js
 //package.json
 {
 	"scripts": {

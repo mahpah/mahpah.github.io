@@ -57,7 +57,7 @@ Vòng lặp sự kiện nguồn: [MozillaDN](https://developer.mozilla.org/en-US
 
 Có bạn sẽ cảm thấy bối rồi về câu “đặt nó vào stack” và “đến khi stack trống”. Uhm, có thể xem stack là một cái bình chỉ có 1 miệng, bạn cho một vài cái bánh vào, cái nào ở trên thì được lấy ra trước. Tức là cái nào bỏ vào sau sẽ được ăn trước, nghe có vẻ bất công nhưng trong một số trường hợp điều đó là cần thiết. Ví dụ thứ tự thực hiện các hàm được mô tả như một stack. Khi một hàm được gọi, nó (đúng hơn là con trỏ hàm chỉ đến nó) được đặt vào stack, còn khi hàm trả về thì nó được lấy ra khỏi stack. Ví dụ hàm:
 
-```language-javascript
+```js
 function f() {
   var a = g();
   return

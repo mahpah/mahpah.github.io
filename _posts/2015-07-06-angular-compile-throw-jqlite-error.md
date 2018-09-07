@@ -1,6 +1,6 @@
 ---
 permalink: angular-compile-throw-jqlite-error
-title: [Angular] $compile throw jQlite error
+title: "[Angular] $compile throw jQlite error"
 layout: post
 tags:
     - angularjs
@@ -80,4 +80,4 @@ var templateFn = $compile(wrapper.contents());
 child = templateFn(elmScope);
 ```
 
-Xem Plunker chạy được ở đây: http://plnkr.co/edit/hJRShbNqU2Sp5iD5GNYT?p=preview 
+Xem Plunker chạy được ở đây: http://plnkr.co/edit/hJRShbNqU2Sp5iD5GNYT?p=preview

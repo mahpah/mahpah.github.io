@@ -21,7 +21,7 @@ Bài trước chúng ta đã xem xét tác vụ không đồng bộ và có đ�
 ## 1. Đối mặt với callback hell
 Kể chuyện tiếp, khi bạn yêu cầu cô nhân viên ghi order, khi nào xong mang đồ uống tới cho tôi, khi đó cô ấy nhận một callback. Đến lượt mình, cô ấy lại đăng ký với anh pha chế, khi nào làm xong gọi em. Cô ghi số điện thoại của mình kẹp vào dưới ly (vì tôi đẹp trai :lol:), rồi ủy nhiệm callback khác cho anh chàng chạy bàn, mang cái này cho anh kia, *nếu* ảnh hỏi gì thì qua đây bảo chị. Vậy chỉ một công việc đơn giản chúng ta đã dùng đến 3 callback và bạn sẽ nhanh chóng mất kiểm soát với đống callback lồng nhau đó. Nếu viết bằng promise bạn sẽ thu được 1 thứ tương tự thế này.
 
-```language-javascript
+```js
 asyncThing1().then(function() {
   return asyncThing2();
 }).then(function() {
@@ -42,16 +42,16 @@ asyncThing1().then(function() {
 Rất dễ hiểu và dễ bắt lỗi đúng không.
 
 ## 2. Phân tách chức năng
-Separation of concerns, tôi chả biết từ tiếng Việt tương đương là gì. Thôi, cứ cho là thế đi. 
+Separation of concerns, tôi chả biết từ tiếng Việt tương đương là gì. Thôi, cứ cho là thế đi.
 Ví dụ với đoạn mã sau
 
-```language-javascript
+```js
 var db = createDatabaseConnection();
 function getUser (request, response) {
 	db.get(request.params.user_id, function getDataDone(error, data) {
     	if(!error) {
         	response.json(data);
-        }	
+        }
     });
 }
 ```
@@ -66,7 +66,7 @@ Một đoạn mã rất quen thuộc cho những ai đã dùng nodejs. Tuy nhiê
 
 Câu này nghe hơi khó hiểu phải không. Tôi thừa nhận. Ý nghĩa của nó có thể là, promise đại diện cho tác vụ không đồng bộ, chúng ta có thể mang nó đi làm gì ở đâu đó.vv.. Nhờ vậy chúng ta giải quyết được 2 vấn đề: vấn đề thứ nhất và vấn đề thứ 2 (LOL). Xem lại đoạn mã ví dụ dùng promise:
 
-```language-javascript
+```js
 var db = createPromisifiedDatabaseConnection();
 function getUser (request, response) {
 	var getDataPromise = db.get(request.params.user_id);
@@ -94,7 +94,7 @@ Gì cơ? Tuần tự á? Chẳng phải chúng ta có chaining promise rồi sao
 Sử dụng `catch` như tôi đã nói trong phần 1. Cũng đơn giản như đan rổ,  nhể.
 Ngày xửa ngày xưa promise còn có thêm phương thức finally, giống như try catch ấy, nhưng promise/A+ giờ đã không còn nữa. Lúc đầu tôi cũng thấy hơi bối rối, nhưng nhìn kỹ thì đúng là finally là thừa, bởi catch cũng trả lại một promise, thế là chỉ cần chain thêm 1 then nữa sau catch là có finally rồi, hề hề.
 
-```language-javascript
+```js
 function errorProne () {
   var promise = new Promise(function(resolve, reject) {
   	// 50% cơ hội xảy ra lỗi
@@ -123,7 +123,7 @@ Cái hình này tôi chôm ở [đây](http://www.html5rocks.com/en/tutorials/es
 
 Một lưu ý nữa là catch được gọi ngay cả khi bạn tung ra một ngoại lệ, như này này:
 
-```language-javascript
+```js
 aPromise.then(function() {
 	// ngoại lệ sẽ được tung ra
 	return JSON.parse('not a valid json');

@@ -36,7 +36,7 @@ setTimeout(function() {
 
 Dễ thấy đoạn mã nhanh chóng trở nên xấu xí và khó đọc, cũng như tiềm ẩn lỗi, mà chúng ta sẽ gọi là pyramid of doom hoặc the callbackline-numbers hell. Hãy xem đoạn code ma quái tiêu biểu sau đây:
 
-```language-javascript
+```js
 function requestHandler(params, callback) {
 	var cachedData = 'some data';
     if(Math.random() < 0.5) {
