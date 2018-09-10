@@ -2,6 +2,7 @@
 title: Thuyết 2 nhân tố
 permalink: thuyet-2-nhan-to-cach-an-toan-de-hoi-ve-li-do-bo-viec
 layout: post
+image: /content/images/2015/06/1640201.jpg
 ---
 
 Nhân chuyện một người bạn vừa từ bỏ một công việc có thu nhập tương đối tốt, tôi bỗng nhớ đến thuyết này (phần vì tôi là người hay liên hệ những sự việc ít liên quan với nhau).
@@ -40,6 +41,6 @@ Ngoài ra có ý kiến chỉ trích cho rằng bác H. chỉ nghiên cứu trê
 
 ---
 
-[^n]: Wikipedia https://en.wikipedia.org/wiki/Two-factor_theory 
+[^n]: Wikipedia https://en.wikipedia.org/wiki/Two-factor_theory
 
 

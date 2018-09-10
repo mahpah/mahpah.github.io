@@ -2,6 +2,7 @@
 title: Vấn đề không nằm ở thể chế, vấn đề nằm ở con người.
 permalink: van-de-nam-o-con-nguoi
 layout: post
+image: http://revolutionarylearning.com/wp-content/uploads/2013/10/Developing-An-Educational-Framework.jpg
 ---
 
 > Cảnh báo: Tiêu đề chỉ mang tính câu view. Đây không phải là bài viết về chính trị. Nội dung bài chỉ đề cập đến việc phát triển phần mềm, cụ thể là phát triển web. Bài gốc, bằng tiếng Anh [Frameworks and libraries are not the problem, people are](http://www.chenhuijing.com/blog/people-are-the-problem/)  viết bởi Chen Hui Jing. Tiêu đề do người dịch đặt.

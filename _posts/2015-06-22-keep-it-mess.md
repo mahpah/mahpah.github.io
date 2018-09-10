@@ -1,6 +1,7 @@
 ---
 permalink: keep-it-mess
 title: Keep it mess
+image: /content/images/2015/06/nzKRAo8.png
 ---
 
 Nhân sự kiện [Terminator Genisys](http://www.imdb.com/title/tt1340138/) sắp ra mắt, tôi đã có cuộc trao đổi nhanh với Arnold Schwarzenegger về cuộc đời anh và những thành công trong sự nghiệp diễn xuất cũng như sự nghiệp chính trị với cương vị Thống đốc bang California.

@@ -2,6 +2,7 @@
 title: Là lập trình viên, tôi tập thể dục (và tại sao bạn cũng nên như vậy)
 permalink: la-lap-trinh-vien-toi-tap-the-duc-va-tai-sao-ban-cung-nen-nhu-vay
 layout: post
+image: /content/images/2017/03/1200-fitstar-morning-workout.jpg
 ---
 
 Xưa nay lập trình viên vốn không được biết đến như những người khỏe mạnh nhất thế giới. Nghĩ đến lập trình viên người ta thường tưởng tượng ra những anh chàng đầu to mắt cận, thân hình hoặc là mỏng như siêu mẫu hoặc béo phì.

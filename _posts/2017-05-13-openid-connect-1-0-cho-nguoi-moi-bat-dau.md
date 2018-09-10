@@ -2,6 +2,7 @@
 title: OpenID Connect 1.0 cho người mới bắt đầu
 permalink: openid-connect-1-0-cho-nguoi-moi-bat-dau
 layout: post
+image: http://openid.net/wordpress-content/uploads/2014/09/openid-r-logo-900x360.png
 ---
 
 > Cuối tuần dành thời gian đọc spec của anh này, cũng vỡ ra được tí thông tin log lai cho đồng đạo cùng xem

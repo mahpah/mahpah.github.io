@@ -1,5 +1,6 @@
 ---
 permalink: hay-thoi-ngay-npm-g
+image: /content/images/2015/04/Npm-logo-svg.png
 title: Ai cần nodejs global package?
 ---
 

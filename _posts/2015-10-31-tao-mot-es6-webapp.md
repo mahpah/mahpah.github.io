@@ -2,6 +2,7 @@
 title: Tạo một ES6 web app
 permalink: tao-mot-es6-webapp
 layout: post
+image: /content/images/2015/10/20-Resources-on-ES6-for-JavaScript-Developers.jpg
 ---
 
 *Also cross-posted on [Kipalog](http://kipalog.com/posts/Tao-mot-ES6-web-app)*

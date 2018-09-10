@@ -1,6 +1,7 @@
 ---
 permalink: es6-javascript-fat-arrow
 title: '[ES6] Javascript fat arrow'
+image: /content/images/2015/05/4628fbb9dc70514d389ed9491243866f_400x400.png
 ---
 
 _Bài viết cũng được post trên Kipalog [#](http://kipalog.com/posts/F3d2BWs4hk10VKc3C0r9Lg)_

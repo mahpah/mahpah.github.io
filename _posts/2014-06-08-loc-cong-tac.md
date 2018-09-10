@@ -2,6 +2,10 @@
 title: Lọc cộng tác là gì
 permalink: loc-cong-tac
 layout: post
+tags:
+  programming
+  colaborative filtering
+  recommendation system
 ---
 
 Ờm hôm nay sẽ post một chủ đề hơi đau đầu một tí. Đây là vấn đề mình tìm hiểu thời gian qua.
@@ -42,9 +46,9 @@ OK vậy vấn đề trở thành làm thế nào để lọc ra được các a
 
 Coi như là tôi bị bắt phải chấm điểm cho các đối tượng theo thang điểm từ 1 đến 5. Chỗ nào bằng 0 là tôi chưa chấm. Nếu có 3 thằng người khác nữa cũng chấm điểm thì ta sẽ có được một ma trận (hay là bảng-gồm-nhiều-dòng)
 
-					Chó - Mèo - Lợn - Gà - Ông - Bà - Bố - Mẹ
+        Chó - Mèo - Lợn - Gà - Ông - Bà - Bố - Mẹ
 
-Tôi                          2          3          0        0        1         5      2      2
+Tôi                     2          3          0        0        1         5      2      2
 
 Thằng 1                 0          3          5        0        0         5      2      2
 
@@ -60,7 +64,7 @@ Thoáng nhìn vào bảng có thể thấy thằng 3 cho điểm khá là giốn
 
 Đó là nhận xét cảm tính, còn tính toán chính xác phải làm như nào? Hãy sử dụng một công thức tính khoảng cách. Ví dụ:
 
-####1. Khoảng cách Euclide (đọc là Ơ-cơ-lít):
+#### 1. Khoảng cách Euclide (đọc là Ơ-cơ-lít):
 
 Chắc hẳn bạn còn nhớ công thức tính khoảng cách giữa 2 điểm (x1, y1) vả (x2, y2) trên một mặt phẳng tọa độ (2 chiều):
 
@@ -76,7 +80,8 @@ Khi đó độ tương tự có thể tính là $latex s1 =1/(1+d) = 0.15 $
 
 Tương tự thằng 2 và thằng 3 là s2 = 0.31; s3= 0.21
 
-####2. Khoảng cách Cosine
+#### 2. Khoảng cách Cosine
+
 Đây chính là cos của góc giữa 2 véc-tơ trong mặt phẳng tọa độ.
 <*Chỗ này các bạn tự tìm giúp tôi công thức nhé, làm biếng viết quá*>
 
@@ -93,11 +98,3 @@ Cũng không khó lắm nhỉ.
 2. Đám đông luôn có khả năng tác động đến bạn.
 
 3. Những thằng chưa làm thì ý kiến của nó không có ý nghĩa, dù nó có hợp gu với mình thế nào đi nữa.
-
-
-
-
-
-
-
-

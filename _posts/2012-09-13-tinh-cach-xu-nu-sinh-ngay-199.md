@@ -1,6 +1,7 @@
 ---
 title: Tính cách Xử Nữ sinh ngày 19/9
 permalink: tinh-cach-xu-nu-sinh-ngay-199
+image: /content/images/2015/04/Virgo-High-Definition-Wallpapers-1080p.jpg
 layout: post
 ---
 
@@ -28,9 +29,9 @@ Là những nhà quản lý bẩm sinh, người sinh ngày 19 tháng 9 đứng 
 
 Người sinh ngày này rất quan tâm về ngoại hình. Họ luôn rất cẩn thận trong cách thể hiện bản thân, cả về thân thể cũng như hành động. Nếu có đủ kinh nghiệm để khắc phục khuyết điểm của bản thân, họ có thể hoàn thành bất cứ điều gì. Sự tự tin vào bản thân chính là chìa khóa.
 
- 
+
 ----
-Còn đây là bản gốc 
+Còn đây là bản gốc
 
 Few people possess the charming personality and physical elegance of Virgos born September 19. They are elegant, classy individuals. Although they like being the center of attention, they can never be called egotists. They are lifelong students who never lose interest in the beauty of life.
 

@@ -14,12 +14,18 @@
       <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
     </section>
 
-    
+
     <section class="main-content">
       <h1 class="page-title">
         {{ page.title}}
       </h1>
-      
+
+      {% if page.image != blank %}
+      <div class="image">
+        <img src="{{page.image}}" alt="">
+      </div>
+      {% endif %}
+
       {{ content }}
 
       <footer class="site-footer">

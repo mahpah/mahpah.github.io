@@ -1,6 +1,7 @@
 ---
 title: "[angularjs] Random background directive powered by Flickr"
 permalink: angularjs-random-background-directive-powered-by-flickr
+image: /content/images/2015/06/Flickr_logo.png
 ---
 
 > Trong tut nhỏ này mình sẽ hướng dẫn các bạn mới bắt đầu với angularjs làm một directive để đặt một ảnh random lấy từ flickr làm background cho một phần tử HTML.

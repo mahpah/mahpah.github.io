@@ -1,6 +1,7 @@
 ---
 permalink: toi-doc-gi-tuan-qua-3
 title: Tôi đọc gì tuần qua #3
+image: /content/images/2015/06/Almeida_J-nior_-_Marinha-_1895.JPG
 ---
 
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.  — Rick Osborne

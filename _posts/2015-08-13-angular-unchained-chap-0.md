@@ -2,6 +2,7 @@
 title: Hành trình Angular - Chap 0
 permalink: angular-unchained-chap-0
 layout: post
+image: /content/images/2015/08/AngularJS_logo-svg.png
 ---
 
 Đây là loạt bài viết ghi lại những thứ tôi hiểu về AngularJS. Xin lưu ý rằng loạt bài này không phải là hướng dẫn cho người mới bắt đầu, tuy nhiên điều kiện tiên quyết không quá phức tạp. Hãy chắc chắn rằng bạn đã hoàn thành các ví dụ (4) trên trang chủ [AngularJS](https://angularjs.org/). Vậy là đủ để chúng ta có thể bắt đầu. Hy vọng loạt bài này sẽ giúp tiết kiệm thời gian cho các bạn mới bắt đầu với angular.

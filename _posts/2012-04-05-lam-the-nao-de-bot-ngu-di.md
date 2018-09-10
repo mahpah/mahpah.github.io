@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Làm thế nào để bớt ngu đi
+image: /content/images/2015/04/o-BRAIN-facebook.jpg
 permalink: lam-the-nao-de-bot-ngu-di
 ---
 

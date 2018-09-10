@@ -1,6 +1,7 @@
 ---
 permalink: weekly-reading-list-1
 title: Tôi đọc gì tuần qua #1
+image: /content/images/2015/04/library_book.jpg
 ---
 
 **Giới thiệu:** *(kèm miễn trừ trách nhiệm)*

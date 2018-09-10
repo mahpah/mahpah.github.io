@@ -2,6 +2,7 @@
 title: Sử dụng npm làm build tool
 permalink: su-dung-npm-lam-build-tool
 layout: post
+image: http://40.media.tumblr.com/2fe2baaaab93c0c63d8908bfe9ddb9a9/tumblr_inline_no9h6xBVWn1t68bpr_540.png
 ---
 
 Nhiều lúc muốn làm một cái site đơn giản mà phải sử dụng đến gulp với grunt để build thì thật phiền, nên tôi làm một cái repo boilerplate dùng npm để build luôn. À đính chính lại cho ai hiểu lầm, npm là một tool thực sự mạnh, và hoàn toàn có thể thay thế được grunt, gulp, brocolli... chứ không phải chỉ để làm "cái site đơn giản" đâu nhé.
@@ -12,7 +13,7 @@ Nhiều lúc muốn làm một cái site đơn giản mà phải sử dụng đ�
 
 Ở cái boilerplate này thì tôi sẽ build các thứ như này:
 
-* HTML: Jade 
+* HTML: Jade
 * css: Sass
 * js: Browserify với babelify
 
@@ -56,7 +57,7 @@ Các lệnh được định nghĩa trong này (`scripts`) có thể được ch
 ```
 npm i http-server --save-dev
 ```
-Thêm vào scripts: 
+Thêm vào scripts:
 ```
 // package.json
 ...

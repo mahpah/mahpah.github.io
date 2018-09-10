@@ -3,6 +3,7 @@ layout: post
 title: Javascript promise
 permalink: javascript-promise
 tags: javascript es6 tech promise
+image: /content/images/2015/06/pinky-promise.jpg
 ---
 
 > Đây là một trong các concept mới được đưa vào ECMAScript 6. Việc sử dụng chúng rất dễ nhưng để hiểu được thì (đối với tôi) cũng cần kha khá thời gian nên tôi phải lưu lại đây. Bài viết này cũng đã đăng trên [kipalog](http://kipalog.com/posts/Javascript-promise)
@@ -77,7 +78,7 @@ Phương thức khởi tạo chỉ có 1 tham số là một hàm thực thi (ex
 Promise theo chuẩn A+ sẽ có đặc điểm như sau:
 
 ### 1. Trạng thái
-Tại 1 thời điểm, 1 promise sẽ có 1 trong 3 trạng thái: 
+Tại 1 thời điểm, 1 promise sẽ có 1 trong 3 trạng thái:
 
 - pending: kết quả chưa được xử lý xong, đang chờ.
 - fulfilled: tác vụ thực hiện thành công

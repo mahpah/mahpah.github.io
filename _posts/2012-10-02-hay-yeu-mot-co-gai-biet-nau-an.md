@@ -1,12 +1,13 @@
 ---
 title: Hãy yêu một cô gái biết nấu ăn
 permalink: hay-yeu-mot-co-gai-biet-nau-an
+image: /content/images/2015/04/desire3.jpg
 layout: post
 ---
 
 *Bài này phải nói là cực kỳ hợp ý mình. Mình không nghĩ là sẽ luôn bắt vợ phải nấu ăn, vợ chồng mình chắc chắn sẽ đến nhà hàng rất nhiều. Nhưng mình rất thích ngắm nhìn vợ nấu ăn, một cảm giác gì đó rất bình yên, và được chăm sóc :)*
 
---- 
+---
 
 Một người bạn của em cuối năm nay sẽ lấy vợ. Hôm nay chị nhà anh ấy post lên Facebook một cái status mà em thấy rất đáng chú ý, chị ấy nói rằng anh ấy liều thật đấy, khi dám cưới chị ấy mà chưa thử tài nấu ăn của chị ấy bao giờ.
 
@@ -22,7 +23,7 @@ Anh ạ, cho đến khi nghe được những câu chuyện đó, em chưa từn
 
 Cô ấy sẽ dạy cho anh biết sự đáng quý của thức ăn, khi mà ngoài kia đang có bao nhiêu người chết đói. Cô ấy sẽ dạy cho anh biết về tình yêu thương và sự vất vả của mẹ. Cô ấy sẽ dạy cho anh về sự tinh tế của ẩm thực. Cô ấy sẽ dạy cho anh thứ gì tốt cho sức khoẻ của anh, thứ gì không. Cô ấy sẽ dạy cho anh ăn được cả những thứ mà anh không thích. Cô ấy sẽ dạy cho anh về sự trưởng thành.
 
-Anh có thể dễ dàng cảm nhận được tình yêu của cô ấy. Sự dịu dàng, cẩn trọng và kiên nhẫn trong từng món ăn. Cô ấy sẽ biết anh thích ăn gì, không thích ăn gì, nhưng không có nghĩa rằng cô ấy sẽ không bao giờ nấu món đó. Cô ấy biết cách để khiến nó hấp dẫn được anh, cũng giống như cách mà cô ấy đã luôn hấp dẫn anh kể từ khi anh lựa chọn ở bên cô ấy. Anh đừng ngạc nhiên tại sao những gì cô ấy nấu luôn ngon, giống như những món của mẹ, đơn giản vì trong đó ngập tràn tình yêu thương. 
+Anh có thể dễ dàng cảm nhận được tình yêu của cô ấy. Sự dịu dàng, cẩn trọng và kiên nhẫn trong từng món ăn. Cô ấy sẽ biết anh thích ăn gì, không thích ăn gì, nhưng không có nghĩa rằng cô ấy sẽ không bao giờ nấu món đó. Cô ấy biết cách để khiến nó hấp dẫn được anh, cũng giống như cách mà cô ấy đã luôn hấp dẫn anh kể từ khi anh lựa chọn ở bên cô ấy. Anh đừng ngạc nhiên tại sao những gì cô ấy nấu luôn ngon, giống như những món của mẹ, đơn giản vì trong đó ngập tràn tình yêu thương.
 
 Một cô gái biết nấu ăn thực sự rất quyến rũ. Em thích ngắm nhìn những thân hình uyển chuyển trong chiếc tạp dề. Đôi bàn tay khi thì thoăn thoắt thái thịt, khi thì nhẹ nhàng rửa từng lá rau, khi thì dịu dàng khuấy cái nồi nghi ngút khói. Em thích sự bí ẩn tươi vui khi anh hỏi cô ấy đang nấu món gì, cô ấy chỉ mỉm cười rồi nói bí mật. Hay khi cô ấy chộn rộn chuẩn bị thức ăn cho anh, khi mà anh cứ làm ầm lên vì đói. Cô ấy vẫn sẽ thật xinh đẹp dù mặt mũi tay chân trắng xoá bột mỳ. Cô ấy vẫn sẽ thật thơm dù tóc ám đầy mùi khói. Nếu em là đàn ông, nhất định em sẽ đến ôm cô ấy thật chặt từ đằng sau, hay quẩn quanh hỏi cô ấy có cần em giúp gì không.
 

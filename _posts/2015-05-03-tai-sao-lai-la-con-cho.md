@@ -1,6 +1,7 @@
 ---
 permalink: tai-sao-lai-la-con-cho
 title: Tại sao lại là con chó?
+image: /content/images/2015/05/1754648.jpg
 ---
 
 Tin hay không tùy bạn nhưng tôi là người được gọi là chó nhiều nhất trên thế giới. Đúng, nhiều nhất Việt Nam cũng là nhiều nhất thế giới, vì trên thế giới làm gì có nước nào gọi con chó là "con chó". Có thể nhiều người cảm thấy bị xúc phạm, nhưng tôi lại có những đánh giá tốt về loài này, [như đã kể trước đây](http://mahpahh.com/meo-va-cho/). Tôi nghĩ chó, hay tất cả loài động vật khác đều có nhiều điểm đáng học hỏi. Ngoài ra, tôi thấy thực sự khó hiểu khi nhiều người coi chó là bạn thân thiết nhưng lại khó chịu khi bị/được so sánh với bạn của mình(?).

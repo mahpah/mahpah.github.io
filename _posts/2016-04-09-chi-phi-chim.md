@@ -2,6 +2,7 @@
 title: Chi phí chìm
 permalink: chi-phi-chim
 layout: post
+image: /content/images/2016/04/sunk-cost.png
 ---
 
 Sáng nay đi làm, ra  ngoài cửa trời mưa lâm thâm. Mình nghĩ mưa nhỏ, không ướt mấy nên chẳng dừng lại mặc áo mưa nữa. Càng đi mưa càng to, đến gần công ty thì nước trên mũ đã nhỏ giọt xuống người. Cũng muốn dừng lại mặc áo mưa nhưng mình tặc lưỡi đã ướt thế này rồi ướt thêm tí nữa cũng chẳng sao. Cuối cùng ướt nửa người mà đến tối còn hơi sốt nữa.

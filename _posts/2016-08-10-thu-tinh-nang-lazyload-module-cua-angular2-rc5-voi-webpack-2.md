@@ -2,6 +2,7 @@
 title: Thử tính năng lazyload module của angular2 rc5 với webpack 2
 permalink: thu-tinh-nang-lazyload-module-cua-angular2-rc5-voi-webpack-2
 layout: post
+image: https://angular.io/resources/images/backgrounds/superhero-paper.png
 ---
 
 Hello bà con, hôm nay team angular2 release phiên bản RC5 có một số thay đổi, trong đó có việc giới thiệu NgModule và khả năng lazy load cho router. Em cũng xem qua vì hứng thú với lazy load.
@@ -97,7 +98,7 @@ export const AppRoutes: Routes = [
 ];
 
 ```
-Dụng ý là đưa cho loadChildren một hàm, và bảo nó khi nào load component thì thực thi hàm này để lấy ra file cần load.  
+Dụng ý là đưa cho loadChildren một hàm, và bảo nó khi nào load component thì thực thi hàm này để lấy ra file cần load.
 Chúng ta cần sửa đổi `NgModuleFactoryLoader`, cái này thực hiện việc load module async
 
 ```

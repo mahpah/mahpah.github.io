@@ -1,6 +1,7 @@
 ---
 permalink: visual-studio-code-at-a-glance
 title: Visual Studio Code, cái nhìn đầu tiên
+image: /content/images/2015/05/vso.png
 ---
 
 Cuối tuần trước, khi cả nước ta đang từng bừng kỷ niệm ngày chiến thắng thì bên kia Thái Bình Dương, các bác Mai Còn Sót đang tôn vinh những người thợ xây bằng hội thảo [MS Build](http://www.buildwindows.com/), với mục đích giới thiệu những sản phẩm mới nhất. Trong đó phải kể đến, ồ xin lỗi không phải trình duyệt Edge, ý tôi là [VS Code](https://code.visualstudio.com/), một editor có tính năng gần như một IDE.
