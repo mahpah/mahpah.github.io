@@ -1,9 +1,23 @@
 <meta charset="UTF-8">
-<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name}}</title>
-<meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
+<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: site.github.repository_name }} by {{
+  site.github.owner_name}}</title>
+<meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="p:domain_verify" content="09c55b9050c4fc88c702ffdfea15f8ab" />
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 <link href="https://fonts.googleapis.com/css?family=Noto+Serif&amp;subset=vietnamese" rel="stylesheet">
+
+<!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+      'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-P554SL');
+</script>
+<!-- End Google Tag Manager -->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
