@@ -41,7 +41,9 @@ Do đặc thù chạy bộ phần lớn thời gian chỉ tập luyện đôi ch
 
 - Đầu giữ thẳng, không cúi gập cổ. Một mẹo nhỏ để kiếm tra dáng chạy là khi chạy mắt không nhìn thấy mũi chân, việc này giúp đảm bảo là bạn đang nhìn thẳng và chân không bước quá dài.
 
-## Các hình thức bài tập
+## Các bài tập cơ bản
+
+Phần này giới thiệu về mục đich của các bài tập một cách sơ lược.
 
 ### Long run
 
@@ -71,8 +73,10 @@ Thông thường trong bài long run người tập chú ý vào mục tiêu qu�
 
 Các bài tập về nhóm cơ khác để bổ trợ cho việc chạy. Các bài thường gặp là:
 
-- [Lunge](https://www.google.com.vn/search?q=lunge&client=ubuntu&hs=5Zp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjE2f2DxOHgAhVoF6YKHcsUD4EQ_AUIDigB&biw=1936&bih=1251),
+- [Lunge](https://www.google.com.vn/search?q=lunge&client=ubuntu&hs=5Zp&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjE2f2DxOHgAhVoF6YKHcsUD4EQ_AUIDigB&biw=1936&bih=1251)
+
 - [side lunge](https://www.google.com.vn/search?client=ubuntu&hs=ouU&biw=1936&bih=1251&tbm=isch&sa=1&ei=anR5XJ7NJ93dmAWQgaGwCA&q=side+lunge&oq=side+lunge&gs_l=img.3..0i67l2j0j0i67j0l6.26204.28338..28850...1.0..0.77.485.7......1....1..gws-wiz-img.......0i7i30j35i39.hlaWZb2Nk4o)
+
 - [Glute bridge](https://www.google.com.vn/search?client=ubuntu&hs=0ap&biw=1936&bih=1251&tbm=isch&sa=1&ei=oXR5XL6cLf-Tr7wPlK2rEA&q=glute+bridge&oq=glu&gs_l=img.3.2.0i67l3j0j0i67l2j0l2j0i67j0.11789.38502..40379...3.0..0.70.273.4......3....1..gws-wiz-img.....0..35i39.TMqcGOsr2HY) Các bài này bổ trợ cho phần hông
 
 - [Plank](https://www.google.com.vn/search?client=ubuntu&hs=MwU&biw=1936&bih=1251&tbm=isch&sa=1&ei=ynR5XKbyM5zMmAXdwa6ADw&q=plank&oq=plank&gs_l=img.3..0i67l2j0j0i67j0l2j0i67l4.34986.36053..36363...2.0..0.73.343.5......1....1..gws-wiz-img.......35i39.uYcRgbaAbmE) Tập luyện các nhóm cơ trung tâm
