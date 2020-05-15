@@ -2,7 +2,7 @@
 title: OpenID Connect 1.0 cho người mới bắt đầu
 permalink: openid-connect-1-0-cho-nguoi-moi-bat-dau
 layout: post
-image: http://openid.net/wordpress-content/uploads/2014/09/openid-r-logo-900x360.png
+image: /assets/images/2017/05/openid-r-logo-900x360.png
 ---
 
 > Cuối tuần dành thời gian đọc spec của anh này, cũng vỡ ra được tí thông tin log lai cho đồng đạo cùng xem
@@ -155,7 +155,7 @@ Flow này bảo mật nhất, token chỉ do các server RP và OP nắm giữ, 
 
 	Nếu request thành công, OP sẽ trả về cho RP ID token, có thể kèm cả access token. Lúc này RP tùy ý xử lý, có thê render trang welcome user hoặc redirect đến đâu đó. Id token gồm các thông tin
 
-       ![](/assets/images/2017/05/Screenshot-from-2017-05-13-22-09-06.png)
+![](/assets/images/2017/05/Screenshot-from-2017-05-13-22-09-06.png)
 
 5. RP tiến hành việc xác thực id token nhận được, có thể sử dụng client secret đã có trước đó cùng thuật toán đã xác đinh, giải mã token và so khớp các thông tin. Nếu thành công, từ điểm này trở đi RP đã có id token của người dùng và có thể sử dụng để lấy dữ liệu từ resource server
 
