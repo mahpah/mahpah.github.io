@@ -10,8 +10,9 @@ function inject() {
     return;
   }
 
-  var nativeInputValueSetter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, "value").set;
-  nativeInputValueSetter.call(input, code);
+  var nativeValueSetter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, "value").set;
+  nativeValueSetter.call(input, code);
+  input.dispatchEvent(new Event('input', {bubbles: true}));
 }
 
 inject();
